@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MenuTuto.unity
+  isLoaded: 1
+  isActive: 1
